@@ -4,9 +4,4 @@ This project aims to detect fake profiles on social media or online platforms us
 
 ---
 
-## 🔍 Features
 
-- Data preprocessing and feature extraction
-- ANN-based classification
-- Accuracy and performance metrics
-- Simple and clean UI (if applicable)
